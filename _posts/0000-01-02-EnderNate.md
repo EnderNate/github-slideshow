@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "UR MOM"
+title: "Do I know what I'm doing?"
 
 ---
 
-Your text
+Maybe, maybe not.
 
 Use the left arrow to go back!
